@@ -7,7 +7,7 @@ Software & Web Developer
 I started working when I was only 13 years old as a tutor for students in grades below mine. At 15, I started coding in C and C++ and worked as an IT junior during my studies. I always had the idea that if you can't find it, I will! In 2018, I came to France to study computer science. I graduated with honors. I am currently working on obtaining a specialization in Mobility, Big Data and Systems Integration, which is one of the best in France in computer science. Furthermore, I work for a company on Continuous Integration (CI) and Continuous Delivery (CD) for their applications. I'm part of a startup team in the US working on web design, web development and photography.
 
 * 🌍  I'm based in Nice, France but willing to relocate
-* 🖥️  See my portfolio at [adamspdavid.lescigales.org](http://adamspdavid.lescigales.org)
+* 🖥️  See my portfolio at [adamspierredavid.com](https://adamspierredavid.com)
 * ✉️  You can contact me at [adamspd.developer@gmail.com](mailto:adamspd.developer@gmail.com)
 * 🚀  I'm currently working on [a photographer website](http://imagerybypd.com)
 * 👀 I’m interested in Web Development, Software Development, scripting and hacking
