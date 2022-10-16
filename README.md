@@ -9,7 +9,7 @@ I started working when I was only 13 years old as a tutor for students in grades
 * 🌍  I'm based in Nice, France but willing to relocate
 * 🖥️  See my portfolio at [adamspierredavid.com](https://adamspierredavid.com)
 * ✉️  You can contact me at [adamspd.developer@gmail.com](mailto:adamspd.developer@gmail.com)
-* 🚀  I'm currently working on [a photographer website](http://imagerybypd.com)
+* 🚀  I'm currently working on [a photographer website](http://crueltouch.com)
 * 👀 I’m interested in Web Development, Software Development, scripting and hacking
 * 🧠  I'm learning Django, Angular & DevOps methods.
 * 🤝  I'm open to collaborating on Python & Java.
