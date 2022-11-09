@@ -13,7 +13,7 @@ I started working when I was only 13 years old as a tutor for students in grades
 * 👀 I’m interested in Web Development, Software Development, scripting and hacking
 * 🧠  I'm learning Django, Angular & DevOps methods.
 * 🤝  I'm open to collaborating on Python & Java.
-* ⚡  I'm secretely SpiderMan...but don't tell anybody.
+* ⚡  I'm secretly Spider-Man...but don't tell anybody.
 
 ### Skills
 
