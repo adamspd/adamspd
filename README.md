@@ -31,8 +31,6 @@ I started working when I was only 13 years old as a tutor for students in grades
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamspd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamspd&show_icons=true&hide=&count_private=true&title_color=010138&text_color=000000&icon_color=010138&bg_color=d8d8d8&hide_border=true&show_icons=true" alt="GitHub Commits Graph" />
-
 
 ### Support Me
 
