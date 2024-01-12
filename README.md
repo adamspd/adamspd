@@ -23,9 +23,7 @@ I started working when I was only 13 years old as a tutor for students in grades
 
 <p align="left"> <a href="https://www.linkedin.com/in/adams-pierre-david-026521144/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@NomadicMindsNetwork" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamspd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adamspd's GitHub stats" />
 
