@@ -68,7 +68,7 @@ Let's connect! I'm always on the lookout for exciting projects and collaboration
 
 ### Socials
 
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/@NomadicMindsNetwork) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adams-pierre-david-026521144)
+[![YouTube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSMDxBMGQT6jtlE8c-eNQ-w) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adams-pierre-david-026521144)
 
 
 
