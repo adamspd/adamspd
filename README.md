@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I've been passionate about technology since my ear
 - Discover my projects and skills at [adamspierredavid.com](https://adamspierredavid.com)
 
 ✉️ **Contact Me**
-- Reach me at `adamspd[dot]developer[at]gmail[dot]com`
+- Reach me at `contact[at]adamspierredavid[dot]com`
 
 🚀 **Current Focus**
 - Enhancing cloud solutions with cloudfoundry.
