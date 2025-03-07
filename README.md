@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I've been passionate about technology since my ear
 - **Former Startup Team Member**: Contributed to a US-based startup in web design and development.
 
 🌍 **Location**
-- Based in Nice, France. Open to relocation for the right opportunity.
+- Based in Paris, France. Open to relocation for the right opportunity.
 
 🖥️ **Portfolio**
-- Discover my projects and skills at [adamspierredavid.com](https://adamspierredavid.com)
+- Discover my projects and skills at [adamspierredavid.com](https://adamspierredavid.com/get-to-know-me/))
 
 ✉️ **Contact Me**
 - Reach me at `contact[at]adamspierredavid[dot]com`
